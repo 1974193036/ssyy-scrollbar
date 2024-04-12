@@ -1,0 +1,11 @@
+{
+  "name": "ssyy-scrollbar.css",
+  "version": "0.0.1",
+  "description": "scrollbar to CSS resets",
+  "main": "scrollbar.css",
+  "style": "scrollbar.css",
+  "files": [
+    "scrollbar.css"
+  ],
+  "license": "MIT"
+}
