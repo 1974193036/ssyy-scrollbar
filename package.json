@@ -1,10 +1,11 @@
 {
-  "name": "ssyy-scrollbar.css",
-  "version": "0.0.3",
+  "name": "nrds-scrollbar.css",
+  "version": "0.0.2",
   "description": "scrollbar to CSS resets",
   "main": "scrollbar.css",
   "style": "scrollbar.css",
   "files": [
+    "LICENSE.md",
     "scrollbar.css"
   ],
   "license": "MIT"
