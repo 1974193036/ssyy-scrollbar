@@ -1,6 +1,6 @@
 {
   "name": "nrds-scrollbar.css",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "scrollbar to CSS resets",
   "main": "scrollbar.css",
   "style": "scrollbar.css",
